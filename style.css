@@ -14,7 +14,7 @@ body{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-image: url(imagens/fundo/fundo.png);
+    background-image: url(imagens/fundo.png);
     color: white;
     padding: 75px;
 }
@@ -155,4 +155,5 @@ body{
         }
         }
     
+
 
